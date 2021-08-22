@@ -1,71 +1,36 @@
-<<<<<<< HEAD
 ## project_1
 
 **Version 1.0.0**
 
+#INTRODUCTION
 
+The project analyses top 30 + coins from Coin Market Cap to run a 5-year historical analysis.  
 
-#
+#REQUIREMENTS
+Windows 10 OS or Mac OS
 
-Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-##Lisense & Copyright 
-d
+## Below modules are needed to run complete analyses: 
+-	OS
+-	dotenv
+-	Pandas
+-	Pandas_datareader
+-	Numpy
+-	Hvplot
+-	McForecastTools
+-	Alpaca_trade_api
+-	Sqlalchemy
+-	Matplotlib
+-	pathlib
 
-
-
-Description
-An in-depth paragraph about your project and overview of use.
-
-Getting Started
-Dependencies
-Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-ex. Windows 10
-Installing
-How/where to download your program
-Any modifications needed to be made to files/folders
-Executing program
-How to run the program
-Step-by-step bullets
-code blocks for commands
-Help
-Any advise for common problems or issues.
-
-
-License
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-=======
-## project_1
-
-**Version 1.0.0**
+#Description
+  
 
 
 
-#
-
-Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-##Lisense & Copyright 
-d
+#License & Copyright
+[MIT](https://choosealicense.com/licenses/mit/)
+© Tim Moriarty, Julia Milin, Gabrielle Giordano, Alex Park, Dariush Ruch-Kamgar
 
 
 
-Description
-An in-depth paragraph about your project and overview of use.
 
-Getting Started
-Dependencies
-Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-ex. Windows 10
-Installing
-How/where to download your program
-Any modifications needed to be made to files/folders
-Executing program
-How to run the program
-Step-by-step bullets
-code blocks for commands
-Help
-Any advise for common problems or issues.
-
-
-License
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
->>>>>>> 47a8861eb13e3ff0722672d784f018c22daa9b11
