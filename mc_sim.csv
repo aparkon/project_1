@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 coin,mcsim_relative_return
 BCH,1.0
 ETC,0.88
@@ -17,3 +18,24 @@ BNB,0.48
 DOGE,0.4267
 EOS,0.3467
 LTC,0.08
+=======
+coin,mcsim_relative_return
+BCH,1.0
+ETC,0.88
+FIL,0.88
+ADA,0.8667
+THETA,0.84
+MKR,0.8133
+VET,0.8133
+TRX,0.7733
+XLM,0.6933
+XMR,0.6733
+BTC,0.66
+ETH,0.6067
+LINK,0.54
+XRP,0.5133
+BNB,0.48
+DOGE,0.4267
+EOS,0.3467
+LTC,0.08
+>>>>>>> 47a8861eb13e3ff0722672d784f018c22daa9b11
